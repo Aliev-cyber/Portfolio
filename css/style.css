@@ -268,14 +268,14 @@ body {
     object-fit: cover;
 }
 
-.footer1 {
+.footer {
     display: flex;
     justify-content: space-between;
     padding: 70px 10% 0;
     margin-bottom: 100px;
 }
 
-.footer1 a {
+.footer a {
     color: #fff;
 }
 
